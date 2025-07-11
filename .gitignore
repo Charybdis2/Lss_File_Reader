@@ -1,2 +1,5 @@
 #Random tester lss files
 *.lss
+
+__pycache__/
+*.py[cod]
