@@ -2,9 +2,13 @@
 A program  to read Live split .LSS files. 
 
 ## Usage 
- - To be done later ()
+ - Run the main.py program
+ - Drag your splits file into the window that says drag
+ - The graphs displaying the splits and main runs should show
 
 ### To-Do
- - Write the readme.md 
- - Write an inital program
+ - add more features in the final window
+ - make the final window look nicer
+ - make the other window look nicer
+ - fix weird bugs
 
